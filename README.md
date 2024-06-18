@@ -30,3 +30,7 @@ This project is a password generator program written in C# for my "Essentials of
 - This project is part of my coursework, and originality is crucial. Plagiarism or using pre-existing online code will significantly affect my grade.
 - The program is implemented in C#.
 - The random password generation and timed character display demonstrate the application of fundamental programming concepts such as random number generation, loops, and timed delays.
+
+# Example Output
+![image](https://github.com/sabvillainy/password-generator/assets/163596339/68ba3b78-be8c-49eb-9822-eb88eec18412)
+
