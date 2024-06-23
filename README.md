@@ -1,5 +1,5 @@
 # Password Generator Project
-This project is a password generator program written in C# for my "Essentials of Programming" course. The program generates random passwords based on specific criteria and outputs the results with a delay. Below are the project instructions that my lecturer indicated:
+This project is a password generator program written in C# for my "[Essentials of Programming](https://vs.ieu.edu.tr/computer_programming/en/syllabus/type/read/id/MBP+105)" lecture. The program generates random passwords based on specific criteria and outputs the results with a delay. Below are the project instructions that my lecturer indicated:
 
 ## Project Requirements
 ### 1. Password Composition:
